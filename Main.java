@@ -22,7 +22,6 @@ public class Main{
                 break;
             case 7:
                 System.out.println("Sunday");
-                break;
         }
     }
 }
